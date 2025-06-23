@@ -3,8 +3,9 @@
 <h3 align="center">A passionate fullStack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bmg252&label=Profile%20views&color=0e75b6&style=flat" alt="bmg252" /> </p>
+<p align="center"><h2> ABOUT ME <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="300px"></h2></p>
 
-
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 ---
 
 - 🌱 I’m currently learning **Java,Flutter,Java Script,Python**
